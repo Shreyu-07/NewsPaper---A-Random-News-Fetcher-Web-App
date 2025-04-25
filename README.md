@@ -30,11 +30,11 @@
 
 ## 📸 Preview
 
-<p float="left">
-  <img src="https://github.com/user-attachments/assets/911c7ce5-1db2-43b4-9f04-a5e9a01de91f" width="30%" />
-  <img src="https://github.com/user-attachments/assets/61adc2d5-1d60-4e5f-bcb6-a64956c876bf" width="30%" />
-  <img src="https://github.com/user-attachments/assets/9a159f06-9721-437e-89ec-8fa0a81c21fe" width="30%" />
-</p>
+
+  <img src="https://github.com/user-attachments/assets/911c7ce5-1db2-43b4-9f04-a5e9a01de91f" />
+  <img src="https://github.com/user-attachments/assets/61adc2d5-1d60-4e5f-bcb6-a64956c876bf" />
+  <img src="https://github.com/user-attachments/assets/9a159f06-9721-437e-89ec-8fa0a81c21fe" />
+
 
 ---
 
