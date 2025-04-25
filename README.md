@@ -76,7 +76,7 @@ Get the project up and running in minutes:
 
 ### 🔁 Clone the Repo
 ```bash
-git clone https://github.com/your-username/NewsPaper.git
+git clone https://github.com/Shreyu-07/NewsPaper---A-Random-News-Fetcher-Web-App.git
 cd NewsPaper
 ```
 
@@ -130,18 +130,6 @@ Made with 💙 by [**Shreyas Shridhar Kulkarni**](https://shreyasshridharkulkarn
 - 💼 [LinkedIn](https://linkedin.com/in/shreyas-shridhar-kulkarni-946a0225a)  
 - 💻 [GitHub](https://github.com/Shreyu-07)  
 - 📬 [Portfolio](https://shreyasshridharkulkarni.netlify.app/)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! If you spot a bug or have a cool idea, feel free to fork the repo and open a PR.
-
-```bash
-git checkout -b feature/your-feature-name
-git commit -m "Added some epic feature 🚀"
-git push origin feature/your-feature-name
-```
 
 ---
 
