@@ -1,0 +1,13 @@
+.main_news{
+    background-color: rgb(235, 225, 225);
+    border-radius: 10px;
+    box-shadow: 0cm 0.5cm 10cm;
+    text-align: justify;
+}
+.custom-navbar {
+    background-color: rgba(215, 204, 204, 0.949);
+}
+
+hr{
+    height: 2rem;
+}

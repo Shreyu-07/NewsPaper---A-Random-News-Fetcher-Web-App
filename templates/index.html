@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>📰 NewsPaper</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="/">📰 NewsPaper</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav me-auto">
+          <li class="nav-item"><a class="nav-link active" href="/">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="https://shreyasshridharkulkarni.netlify.app/">Author</a></li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">More</a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://linkedin.com/in/shreyas-shridhar-kulkarni-946a0225a">LinkedIn</a></li>
+              <li><a class="dropdown-item" href="https://github.com/Shreyu-07">GitHub</a></li>
+            </ul>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content -->
+  <div class="container mt-4">
+    <center><h1 class="mb-4">📰 Welcome to NewsPaper</h1></center>
+
+    <div class="card p-4 shadow-sm">
+      <h2 class="text-center">Title: {{ title }}</h2>
+      <p class="text-muted">Author: {{ auther }}</p>
+      <hr>
+      <center>
+        <img src="{{ image }}" class="img-fluid rounded" style="max-width: 100%; height: auto;" alt="News Image">
+      </center>
+      <br>
+      <h4>Description:</h4>
+      <p>{{ description }}</p>
+      <h5>URL:</h5>
+      <a href="{{ url }}" target="_blank" class="btn btn-primary">Read Full Article</a>
+      <br><br>
+      <h4>Content:</h4>
+      <p>{{ content }}</p>
+    </div>
+  </div><br><br><br>
+
+  <!-- Footer -->
+  <footer class="bg-dark text-white text-center py-3 fixed-bottom">
+    Made by ❤️ Shreyas Shridhar Kulkarni ❤️ | 2025
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
