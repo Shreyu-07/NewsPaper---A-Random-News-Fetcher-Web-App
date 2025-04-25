@@ -30,10 +30,12 @@
 
 ## 📸 Preview
 
-
+  <h2>For PC</h2>
   <img src="https://github.com/user-attachments/assets/911c7ce5-1db2-43b4-9f04-a5e9a01de91f" />
   <img src="https://github.com/user-attachments/assets/61adc2d5-1d60-4e5f-bcb6-a64956c876bf" />
-  <img src="https://github.com/user-attachments/assets/9a159f06-9721-437e-89ec-8fa0a81c21fe" />
+
+  <h2>For Mobile</h2>
+  <center><img src="https://github.com/user-attachments/assets/9a159f06-9721-437e-89ec-8fa0a81c21fe" /></center>
 
 
 ---
