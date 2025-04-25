@@ -13,7 +13,7 @@ A simple and elegant Flask web application that fetches a **random top headline*
 - Navigation links to developer's **portfolio**, **GitHub**, and **LinkedIn**.
 
 ## 📸 Screenshot
-![op6](https://github.com/user-attachments/assets/e0ad2f3d-0d78-4431-8bdc-764fdc8e89ee)
+![op6](https://github.com/user-attachments/assets/911c7ce5-1db2-43b4-9f04-a5e9a01de91f)
 ![op7](https://github.com/user-attachments/assets/61adc2d5-1d60-4e5f-bcb6-a64956c876bf)
 ![op8](https://github.com/user-attachments/assets/9a159f06-9721-437e-89ec-8fa0a81c21fe)
 
