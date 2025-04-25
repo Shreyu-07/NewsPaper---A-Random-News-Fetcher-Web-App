@@ -1,9 +1,3 @@
-        # 'access_key':'67c73a5208f623569ebaabf727697323'
-        # # url = "http://api.mediastack.com/v1/news"
-
-# https://newspaper-4h43.onrender.com/ hosted the pages
-
-
 # pip install gunicorn
 # pip freeze > requirements.txt
 
@@ -18,7 +12,7 @@ def home():
     url = 'https://newsapi.org/v2/top-headlines'
     params = {
         'country': 'us',  # You can change this to 'us', 'gb', etc.
-        'apiKey': 'e8525e96f113482fb9d7a52ae823c952'
+        'apiKey': 'ADD YOUR OWN API KEY'
     }
 
     response = requests.get(url=url, params=params)
